@@ -1,2 +1,2 @@
-# trash-recyling-help.githuub.io
+# trash-recyling-help.github.io
 Site where files are downloaded.
