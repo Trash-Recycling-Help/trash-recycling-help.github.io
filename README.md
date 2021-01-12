@@ -1,2 +1,2 @@
-# trash-recyling-help.github.io
-Site where files are downloaded.
+# trash-recycling-help.github.io
+Site where calendar files are downloaded.
