@@ -1,4 +1,4 @@
-[Test Mult Events File](https://trash-recycling-help.github.io/my.ics)
+[Full Year: SE Quadrant](https://trash-recycling-help.github.io/my.ics)
 
 ## Welcome to Trash and Recycling Help!
 
