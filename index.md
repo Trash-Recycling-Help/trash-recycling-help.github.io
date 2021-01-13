@@ -1,4 +1,4 @@
-[Test Multi Event Calendar File](https://trash-recycling-help.github.io/my.ics)
+[Test -1 Alarm and Function File](https://trash-recycling-help.github.io/my.ics)
 
 ## Welcome to Trash and Recycling Help!
 
