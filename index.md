@@ -1,6 +1,6 @@
-[Test Calendar File](https://trash-recyling-help.github.io/my.ics)
+[Test Multi Event Calendar File](https://trash-recycling-help.github.io/my.ics)
 
-## Welcome to GitHub Pages
+## Welcome to Trash and Recycling Help!
 
 You can use the [editor on GitHub](https://github.com/Trash-Recyling-Help/trash-recyling-help.githuub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
